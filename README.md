@@ -1,4 +1,4 @@
-![peakpx](https://discord.gg/tGyZvxcpPb)
+[Discord invite](https://discord.gg/tGyZvxcpPb)
 
 
 Traveler's Backpack By Tiviacz1337
