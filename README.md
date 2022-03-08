@@ -20,7 +20,6 @@
 # Fourth (test) 
 - Dungeons Enhanced by Valarauko9
 - Goblins & Dungeons by superlord_9362
-- Relics by SSKirillSS
 - Special AI by FatherToast
 - Structures Plus II by Qra5
 - Ars Nouveau by baileyholl2, Gootasti
