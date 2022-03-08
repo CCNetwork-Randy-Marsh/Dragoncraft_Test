@@ -4,7 +4,8 @@
  
 Added
 - The Undergarden by quek04
-- Atum 2 Return to the Sands by Shadowclaimer, Girafi
+- Atum 2 Return to the Sands by Shadowclaimer, Girafi!
+
 - (Smaller bugfixes)
 
 # 1.0
@@ -30,3 +31,6 @@ Added
 - [x] Add more Dimensions
 - [ ] Custom Dragons
 - [ ] Figuring out how to use photos to curseforge xD
+
+
+![peakpx](https://user-images.githubusercontent.com/12448870/157334382-6ac339c8-4c26-4601-953d-b4de24fa2f23.jpg)
