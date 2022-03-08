@@ -23,9 +23,8 @@ Added
 - Ars Nouveau by baileyholl2, Gootasti
 - Trident Crafting & Structures[FORGE]
 ## Fourth Part 2 
-Origins added Again
-origins addon
-and origins addon
+- [Origins added Again](https://www.curseforge.com/minecraft/mc-mods/origins-forge)
+- [Origins Addon](https://www.curseforge.com/minecraft/mc-mods/libra-an-origins-addon/files/3404203)
 
 # Todo List
 - [x] Add more Dimensions
