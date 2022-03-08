@@ -14,6 +14,10 @@
 
 # Third update (So far)
 - Swapping Xaeros_Minimap for JourneyMap by techbrew, Mysticdrew
+- Adding JEI Integration by SnowShock35
+- adding [immersiveposts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
+
+
 
 # Todo List
 - [ ] Add more Dimensions
