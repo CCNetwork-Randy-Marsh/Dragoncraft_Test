@@ -12,7 +12,7 @@
 - Wyrmroost by Wyrmroost
 - (Smaller bugfixes)
 
-#Third update (So far)
+# Third update (So far)
 - Swapping Xaeros_Minimap for JourneyMap by techbrew, Mysticdrew
 
 # Todo List
