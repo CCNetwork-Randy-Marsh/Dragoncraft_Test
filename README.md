@@ -23,8 +23,8 @@
 - Relics by SSKirillSS
 - Special AI by FatherToast
 - Structures Plus II by Qra5
-
-
+- Ars Nouveau by baileyholl2, Gootasti
+- Trident Crafting & Structures[FORGE]
 
 
 
