@@ -2,7 +2,7 @@
 
 # Changelog
 
-# First update
+# First update 
 - The Undergarden by quek04
 - Atum 2 Return to the Sands by Shadowclaimer, Girafi
 - (Smaller bugfixes)
@@ -17,9 +17,18 @@
 - Adding JEI Integration by SnowShock35
 - adding [immersiveposts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
 
+# Fourth (test) 
+- Dungeons Enhanced by Valarauko9
+- Goblins & Dungeons by superlord_9362
+- Relics by SSKirillSS
+- Special AI by FatherToast
+- Structures Plus II by Qra5
+
+
+
 
 
 # Todo List
-- [ ] Add more Dimensions
+- [x] Add more Dimensions
 - [ ] Custom Dragons
 - [ ] Figuring out how to use photos to curseforge xD
