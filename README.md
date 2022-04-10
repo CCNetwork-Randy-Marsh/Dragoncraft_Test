@@ -1,4 +1,4 @@
-[Discord invite](https://discord.gg/tGyZvxcpPb)
+![Discord invite](https://i.imgur.com/5wk9NGi.png)
 
 # Changelog, Everything from the old folder got swapped for the latest release of Dragoncraft Reborn V3 (patch 1) 
 
